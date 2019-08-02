@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="500.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.RootController">
+   <children>
+      <VBox fx:id="vbox_dot" layoutX="54.0" layoutY="50.0" prefHeight="400.0" prefWidth="400.0">
+         <children>
+            <HBox fx:id="hvox_dot" prefHeight="50.0" prefWidth="400.0">
+               <children>
+                  <Label fx:id="lb_00" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_01" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_02" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_03" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_04" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_05" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_06" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_07" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox prefHeight="50.0" prefWidth="400.0">
+               <children>
+                  <Label fx:id="lb_10" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_11" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_12" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_13" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_14" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_15" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_16" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_17" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox prefHeight="50.0" prefWidth="400.0">
+               <children>
+                  <Label fx:id="lb_20" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_21" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_22" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_23" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_24" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_25" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_26" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_27" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox prefHeight="50.0" prefWidth="400.0">
+               <children>
+                  <Label fx:id="lb_30" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_31" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_32" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_33" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_34" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_35" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_36" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_37" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox prefHeight="50.0" prefWidth="400.0">
+               <children>
+                  <Label fx:id="lb_40" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_41" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_42" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_43" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_44" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_45" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_46" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_47" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox prefHeight="50.0" prefWidth="400.0">
+               <children>
+                  <Label fx:id="lb_50" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_51" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_52" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_53" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_54" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_55" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_56" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_57" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox prefHeight="50.0" prefWidth="400.0">
+               <children>
+                  <Label fx:id="lb_60" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_61" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_62" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_63" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_64" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_65" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_66" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_67" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox prefHeight="50.0" prefWidth="400.0">
+               <children>
+                  <Label fx:id="lb_70" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_71" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_72" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_73" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_74" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_75" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_76" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lb_77" onMouseClicked="#dotlabelOnAction" prefHeight="50.0" prefWidth="50.0" text=" ">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+      <Button fx:id="btn_tx_dot" layoutX="511.0" layoutY="129.0" mnemonicParsing="false" onAction="#btnTXdotOnAction" prefHeight="40.0" prefWidth="107.0" text="전 송">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
